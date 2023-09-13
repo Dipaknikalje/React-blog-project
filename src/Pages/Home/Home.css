@@ -169,6 +169,18 @@ padding: 1rem; }
   text-align: center;
   margin: 1rem 20rem;
 }
+.home_add-imgs{
+  background-image: url(../../Assets/fanta.jpg);
+  background-size: contain;
+  background-repeat: repeat;
+  width:400px;
+  height:140vh;
+  position:relative;
+  right:20px;
+  bottom:-100px;
+  /* top:1550px; */
+  /* top:300px; */
+}
 
 @media only screen and (min-width: 700px) and (max-width: 1400px){
   .TopPoster__big img{
